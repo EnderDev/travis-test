@@ -1,4 +1,7 @@
-language: python
+language: sh
+
+git:
+  clone: false
 
 os:
   - linux
